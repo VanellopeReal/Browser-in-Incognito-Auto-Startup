@@ -2,7 +2,7 @@
 Open a browser in incognito-search mode automatically.
 
 Platform
-- Windows
+- Windows (but should be not a problem if using any other platform, just need to code the path.)
 
 ### There are Two Simple Ways:
 
