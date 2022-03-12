@@ -19,4 +19,4 @@ Using Windows Application Properties
 
 #### Using it naturally:
 
-  A idea of use is simply creatin a .exe of the .py and creating a shortcut with your browser icon, renaming to the browser name and placing it on taskbar or start menu (or if needed a startup exec).
+  A idea of use is simply creatin a .exe of the .py and creating a shortcut with your browser icon, renaming to the browser name and placing it on taskbar or start menu (or if needed, a startup exec).
