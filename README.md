@@ -19,4 +19,5 @@ Using Windows Application Properties
 
 #### Using it naturally:
 
-  A idea of use is simply creatin a .exe of the .py and creating a shortcut with your browser icon, renaming to the browser name and placing it on taskbar or start menu (or if needed, a startup exec).
+  (obs: using Python Method Required) A idea of use is simply creating a .exe of the .py and creating a shortcut with your browser icon, renaming to the browser name and placing it on taskbar or start menu (or if needed, a startup exec).
+  (obs: using Windows Properties Required) A idea of use is just using the start menu shortcut to open in incognito/private mode directly (this also should change the taskbar shortcut functions, if not, just drag the shortcut with the incognito parameter to the taskbar)
